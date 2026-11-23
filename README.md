@@ -1,6 +1,6 @@
 # Maths Quiz Live – Alliance University × Infinity Club
 
-A Kahoot-style live quiz. Participants join with only a **game code and a name** (no account).
+A live quiz. Participants join with only a **game code and a name** (no account).
 The admin signs in at `/#admin`, generates the code, and runs the game.
 
 ## Deploy on Vercel (about 10 minutes)
